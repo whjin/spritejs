@@ -2,7 +2,7 @@ localStorage.setItem('language', 'zh-CN');
 
 const {Scene, Sprite} = spritejs;
 
-const scene = new Scene('#app', {
+const scene = new Scene('#container', {
     viewport: ['auto', 'auto'],
     resolution: [3080, 800]
 });
