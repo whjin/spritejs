@@ -1,0 +1,26 @@
+{
+  "name": "spritejs",
+  "version": "1.0.0",
+  "description": "sprite.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whjin/spritejs.git"
+  },
+  "keywords": [
+    "sprite.js",
+    "css"
+  ],
+  "author": "whjin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whjin/spritejs/issues"
+  },
+  "homepage": "https://github.com/whjin/spritejs#readme",
+  "dependencies": {
+    "canvas": "^2.0.1"
+  }
+}
